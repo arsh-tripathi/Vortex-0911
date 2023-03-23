@@ -1,4 +1,4 @@
--  Hi, I’m @Vortex-0911
+-  Hi, I’m Arsh Tripathi.
 -  I’m interested in creating programs that make life easy(also maybe some fun games).
 -  I’m currently learning Python(intermediate), HTML, CSS, C, JavaScript
 -  I’m looking to collaborate on anything.
