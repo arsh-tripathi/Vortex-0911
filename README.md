@@ -11,8 +11,13 @@ The technologies I'm familiar with are:
 -  R
 -  Git
 -  Linux
+
 I’m looking to collaborate on anything.
-How to reach me arsht2004@gmail.com
+
+Contact me: arsht2004@gmail.com
+
+View my portfolio: https://arsh-tripathi.github.io
+
 
 <!---
 Vortex-0911/Vortex-0911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
