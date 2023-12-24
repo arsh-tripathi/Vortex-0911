@@ -2,6 +2,11 @@ Hi, I’m
 # Arsh Tripathi.
 I’m interested in creating programs that make life easy(also maybe some fun games).
 The technologies I'm familiar with are:
+-  C++
+-  Rust
+-  Go
+-  Node
+-  React
 -  Python
 -  C
 -  JavaScript
